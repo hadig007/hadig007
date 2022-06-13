@@ -2,12 +2,11 @@ Hi there 👋
 
 I'm Hadi Gunawan 
 
-## 💥 Current Stack 
---------------------
+#### 💥 Current Stack 
 🌎 Web : MEVN Stack
 📱 Mobile : Flutter
 
-## 🧑‍🏫 Current activity
+#### 🧑‍🏫 Current activity
 📚 Reading book
 🎵 LIstening music
 <!---
